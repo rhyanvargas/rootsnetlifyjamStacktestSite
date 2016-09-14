@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "roots-project",
   "description": "A sample roots project",
   "dependencies": {
@@ -13,5 +14,20 @@
     "marked": "0.3.x",
     "rupture": "0.6.x",
     "stylus": "0.54.x"
+=======
+  "name": "roots-base",
+  "description": "Clean Roots Install",
+  "dependencies": {
+    "autoprefixer-stylus": "0.5.x",
+    "axis": "0.3.x",
+    "coffee-script": "1.8.x",
+    "css-pipeline": "0.2.x",
+    "jade": "1.x",
+    "js-pipeline": "0.2.x",
+    "marked": "0.3.x",
+    "roots": "^3.0.0",
+    "rupture": "0.6.x",
+    "stylus": "0.49.x"
+>>>>>>> 4929abeef2933ab3497c4cc82cf448cb5694d099
   }
 }
