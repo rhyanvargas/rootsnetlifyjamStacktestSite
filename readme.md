@@ -1,6 +1,4 @@
-A sample roots project
-=======
-# roots-base
+Sample Roots Site
 
 Clean Roots Install
 
