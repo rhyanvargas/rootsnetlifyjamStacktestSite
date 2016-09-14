@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-# roots-project
-
 A sample roots project
 =======
 # roots-base
 
 Clean Roots Install
->>>>>>> 4929abeef2933ab3497c4cc82cf448cb5694d099
 
 ### Setup
 
